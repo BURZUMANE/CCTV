@@ -322,6 +322,12 @@ a {
     text-align: right;
 }
 
+.language-list {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
 /* ==========================================================================
    Media Queries
    ========================================================================== */
